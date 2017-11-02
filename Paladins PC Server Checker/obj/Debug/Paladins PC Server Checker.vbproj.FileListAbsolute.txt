@@ -1,0 +1,11 @@
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\bin\Debug\Paladins PC Server Checker.exe.config
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\bin\Debug\Paladins PC Server Checker.exe
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\bin\Debug\Paladins PC Server Checker.pdb
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\bin\Debug\Paladins PC Server Checker.xml
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\obj\Debug\Paladins PC Server Checker.vbprojResolveAssemblyReference.cache
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\obj\Debug\Paladins_PC_Server_Checker.Form1.resources
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\obj\Debug\Paladins_PC_Server_Checker.Resources.resources
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\obj\Debug\Paladins PC Server Checker.vbproj.GenerateResource.Cache
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\obj\Debug\Paladins PC Server Checker.exe
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\obj\Debug\Paladins PC Server Checker.xml
+D:\Installer\Documents\Visual Studio 2015\Projects\_Game Hax Files\Paladins PC Server Checker\Paladins PC Server Checker\obj\Debug\Paladins PC Server Checker.pdb
